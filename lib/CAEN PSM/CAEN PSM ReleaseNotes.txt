@@ -1,0 +1,54 @@
+
+  -----------------------------------------------------------------------------
+
+                   --- CAEN SpA - Software Division --- 
+
+  -----------------------------------------------------------------------------
+
+  PSM LabView Instrument Driver Release Notes
+
+  -----------------------------------------------------------------------------
+  Rel. 1.0.2 - January 2015
+  Rel. 1.0.1 - August 2013
+  Rel. 1.0.0 - March 2013
+  -----------------------------------------------------------------------------
+
+  Description
+  -----------
+
+  This file describes the revision history of CAEN PSM (Power Supply Modules)
+  LabView Instrument Driver.
+
+  System Requirements
+  -------------------
+
+  - Windows Xp/Vista/7
+  - LabView 2009 or later
+
+  What’s New in Rel. 1.0.2
+  --------------------------
+
+  - FIXED: Support for the devices with more than 4 channels
+  
+  What’s New in Rel. 1.0.1
+  --------------------------
+
+  - NEW: Support for TCP/IP 
+  - FIXED: Read out Trip.vi
+  
+  What's New in Rel. 1.0
+  --------------------------
+
+   New Features and Important Notes
+   --------------------------------
+
+   - First release (called N14XX)
+
+  How to get support
+  ------------------
+
+  Our Software Support Group is available for questions, support and any other 
+  software related issue concerning CAEN products; for software support
+  visit the page http://www.caen.it/csite/ProductSupport.jsp.
+  For questions about the hardware: support.nuclear@caen.it
+  For questions about software and libraries: support.computing@caen.it
